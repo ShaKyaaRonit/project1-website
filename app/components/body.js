@@ -44,10 +44,10 @@ const Body = () => {
       <textarea placeholder="Your Message" className="p-3 rounded-lg border border-black" required>
 
       </textarea>
-                            <button type="submit" className="bg-gray-700 text-white py-3 rounded-full font-semibold hover:bg-black transition-all duration-300"
-                            >
-                              Send Message
-                            </button>
+        <button type="submit" className="bg-gray-700 text-white py-3 rounded-full font-semibold hover:bg-black transition-all duration-300"
+        >
+          Send Message
+        </button>
     </form>
   </div>
 
