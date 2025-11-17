@@ -20,7 +20,7 @@ const Contact = () => {
     <div className="mt-50 max-w-lg mx-auto bg-gray-100 p-8 rounded-xl shadow-md">
       <h2 className="text-4xl uppercase font-semibold">Contact</h2>
 
-      <form id="contactForm" className="flex flex-col space-y-5 mt-5">
+      <form id="contact" className="flex flex-col space-y-5 mt-5">
         <input
           id="name"
           type="text"
